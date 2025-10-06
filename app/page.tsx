@@ -8,7 +8,7 @@ export default function Page() {
       <Link href="/about">About</Link>
       <h1>
         welcome 
-      <h1>
+      </h1>
   
     </div>
   )
